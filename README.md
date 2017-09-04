@@ -5,8 +5,9 @@
 Syntax highlighted code block
 1. Dijango
 2. OpenCV
+
 For more details see [first](https://github.com/Chenye0926/myCSDN/first.md)
 
-For more details see [first](myCSDN/first.md)
+For more details see [first](blogs/first.md)
 
 
